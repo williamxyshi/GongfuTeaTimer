@@ -1,7 +1,7 @@
 # GongfuTeaTimer
 My submission for a simple and functional Gongfu Tea Timer as requested on the r/Tea subreddit
 
-Request pos: https://www.reddit.com/r/tea/comments/ge3ejy/is_there_a_tea_timer_app_for_android_that/
+Request post: https://www.reddit.com/r/tea/comments/ge3ejy/is_there_a_tea_timer_app_for_android_that/
 
 Features: 
 
